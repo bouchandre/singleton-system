@@ -1,0 +1,12 @@
+{
+    "name": "com.bouchandre.singleton-system",
+    "version": "1.0.0",
+    "displayName": "Singleton System",
+    "description": "A simple, general purpose singleton for Unity.",
+    "unity": "2010.4",
+    "author": {
+        "name": "Bouchandre",
+        "email": "example@gmail.com",
+        "url": "www.example.com"
+    }
+}
